@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Blah Blah Blah splat
-=======
 Blah Blah Blah Blah
->>>>>>> test-branch
